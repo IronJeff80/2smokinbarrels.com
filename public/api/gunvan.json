@@ -1,8 +1,8 @@
 {
-  "id": "7",
-  "locationName": "Paleto Forest Lumber Yard",
-  "imagePath": "/images/gunvan/loc_7.jpg",
-  "mapPath": "/images/gunvan/map_7.jpg",
+  "id": "25",
+  "locationName": "Caesars Auto Parking, Little Seoul",
+  "imagePath": "/images/gunvan/loc_25.jpg",
+  "mapPath": "/images/gunvan/map_25.jpg",
   "inventory": [
     "Unholy Hellbringer: -40 %",
     "Railgun: -10 %",
@@ -17,5 +17,5 @@
     "Sticky Bomb: -10 %",
     "Body armor: -10 %"
   ],
-  "updatedAt": "2026-08-24T03:56:56.024Z"
+  "updatedAt": "2026-08-24T16:37:48.275Z"
 }
