@@ -1,19 +1,19 @@
 {
-  "id": "1",
-  "locationName": "No Marks Cleaners, Paleto Bay",
-  "imagePath": "/images/gunvan/loc_1.jpg",
-  "mapPath": "/images/gunvan/map_1.jpg",
+  "id": "19",
+  "locationName": "Popular Street, La Mesa",
+  "imagePath": "/images/gunvan/loc_19.jpg",
+  "mapPath": "/images/gunvan/map_19.jpg",
   "inventory": [
-    "Military Rifle: -30 %",
-    "Precision Rifle: -10 %",
+    "Stun Gun: -10 %",
     "Railgun: -10 %",
+    "Precision Rifle: -50 %",
     "Grenade Launcher: -10 %",
-    "Heavy Pistol: -10 %",
-    "Crowbar: -10 %",
-    "Pipe Bomb: -10 %",
+    "Flare Gun: -10 %",
+    "Knife: -10 %",
     "Tear Gas: -10 %",
-    "Grenade: -10 %",
+    "Molotov: -10 %",
+    "Sticky Bomb: -10 %",
     "Body armor: -10 %"
   ],
-  "updatedAt": "2026-09-02T09:23:30.597Z"
+  "updatedAt": "2026-09-03T09:33:26.403Z"
 }
