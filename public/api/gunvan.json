@@ -1,8 +1,8 @@
 {
-  "id": "25",
-  "locationName": "Caesars Auto Parking, Little Seoul",
-  "imagePath": "/images/gunvan/loc_25.jpg",
-  "mapPath": "/images/gunvan/map_25.jpg",
+  "id": "21",
+  "locationName": "Magellan Ave / Conquistador St, Vespucci Beach",
+  "imagePath": "/images/gunvan/loc_21.jpg",
+  "mapPath": "/images/gunvan/map_21.jpg",
   "inventory": [
     "Stun Gun: -10 %",
     "Railgun: -10 %",
@@ -15,5 +15,5 @@
     "Sticky Bomb: -10 %",
     "Body armor: -10 %"
   ],
-  "updatedAt": "2026-09-05T08:54:11.757Z"
+  "updatedAt": "2026-09-06T09:14:04.287Z"
 }
